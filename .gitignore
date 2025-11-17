@@ -1,0 +1,63 @@
+#############################
+#    Visual Studio         #
+#############################
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# MonoDevelop/Xamarin
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# VS cache
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# Logs
+*.log
+
+# Temporary files
+*_i.c
+*_p.c
+*.tmp
+*.tmp_proj
+
+# Profiler
+*.psess
+*.vsp
+*.vspx
+
+#############################
+#        .NET Core          #
+#############################
+
+# .NET build folders
+bin/
+obj/
+
+# ASP.NET scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+

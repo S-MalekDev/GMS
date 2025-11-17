@@ -1,0 +1,24 @@
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\bin\Debug\net8.0\CoreLayer.deps.json
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\refint\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.pdb
+C:\Users\DELL\Desktop\GMS Project\GMS\CoreLayer\obj\Debug\net8.0\ref\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS\CoreLayer\bin\Debug\net8.0\CoreLayer.deps.json
+C:\Users\DELL\Desktop\GMS\CoreLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS\CoreLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\refint\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\CoreLayer.pdb
+C:\Users\DELL\Desktop\GMS\CoreLayer\obj\Debug\net8.0\ref\CoreLayer.dll

@@ -1,0 +1,34 @@
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\Applicat.033E422A.Up2Date
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\GMS Project\GMS\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\Applicat.033E422A.Up2Date
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\DELL\Desktop\GMS\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll

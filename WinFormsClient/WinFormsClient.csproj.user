@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Controls\Person\ctrlShowPersonDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Theme\ThemeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\GeneralTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\ToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\BaseForms\BaseChildForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\BaseForms\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Member\ManageMembersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Offer\SubscriptionOffersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Person\AddAndUpdatePersonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Person\ManagePeopleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Person\ShowPersonDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Plans\SubscriptionPlansForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Subscription\ManageSubscriptionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Theme\ThemeSelectorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Trainer\ManageTrainersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\User\ManageUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

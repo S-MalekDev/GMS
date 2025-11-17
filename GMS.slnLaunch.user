@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "APILayer\\APILayer.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "WinFormsClient\\WinFormsClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
