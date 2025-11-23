@@ -1,5 +1,10 @@
 # Gym Management System (GMS)
 
+[![.NET Core](https://img.shields.io/badge/.NET-Core%208-brightgreen)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)  
+[![C#](https://img.shields.io/badge/language-C%23-blue)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
+[![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-green)](https://www.microsoft.com/en-us/sql-server)
+[![Entity Framework](https://img.shields.io/badge/ORM-Entity%20Framework-blueviolet)](https://learn.microsoft.com/en-us/ef/)
+
 ---
 
 > ⚠️ **Warning:** This project is currently under development (Work in Progress). Some features may be incomplete or unstable.
